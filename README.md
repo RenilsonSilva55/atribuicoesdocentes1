@@ -170,7 +170,7 @@
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">Professor Focal Administrativo</h2>
             <p class="text-gray-700 mb-6">O professor focal administrativo é responsável pela organização e gestão dos registros acadêmicos do módulo sob sua responsabilidade, garantindo a fluidez e precisão das informações.</p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <!-- Dinâmica 1: Organização do Ambiente Virtual (CANVAS) -->
+                !-- Dinâmica 1: Organização do Ambiente Virtual (CANVAS) -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-desktop task-icon"></i> Organização do Ambiente Virtual (CANVAS)</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar as tarefas!</p>
@@ -178,7 +178,7 @@
                         <p id="game-canvas-prompt" class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>
-                <!-- Dinâmica 2: Lançamento de Avaliações e Frequência (RM) -->
+                !-- Dinâmica 2: Lançamento de Avaliações e Frequência (RM) -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-clipboard-check task-icon"></i> Lançamento e Gestão de Avaliações e Frequência (RM)</h3>
                     <p class="text-gray-600 mb-4">Clique no ícone para lançar as notas!</p>
@@ -192,13 +192,12 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- Seção: Especialista Local do Eixo -->
+        </section<-- Seção: Especialista Local do Eixo -->
         <section class="mb-12">
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">Especialista Local do Eixo</h2>
             <p class="text-gray-700 mb-6">O Especialista Local do Eixo atua como modelo para os demais docentes, sendo responsável por planejar e acompanhar a matriz curricular do curso.</p>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <!-- Dinâmica 3: Planejamento e Acompanhamento Pedagógico -->
+                !-- Dinâmica 3: Planejamento e Acompanhamento Pedagógico -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-tasks task-icon"></i> Planejamento e Acompanhamento Pedagógico</h3>
                     <p class="text-gray-600 mb-4">Clique no cartão para virar e ver os tópicos!</p>
@@ -217,7 +216,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- Dinâmica 4: Articulação e Desenvolvimento -->
+                !-- Dinâmica 4: Articulação e Desenvolvimento -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-sitemap task-icon"></i> Articulação e Desenvolvimento</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -225,7 +224,7 @@
                         <p id="game-articulacao-prompt" class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>
-                <!-- Dinâmica 5: Reuniões e Colaboração -->
+                !-- Dinâmica 5: Reuniões e Colaboração -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-handshake task-icon"></i> Reuniões e Colaboração</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -234,7 +233,7 @@
                     </div>
                 </div>
             </div>
-        </section> <!-- Dinâmica Extra: Tabela de Atribuições e CH -->
+        </section> !-- Dinâmica Extra: Tabela de Atribuições e CH -->
         <section class="mb-12">
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">ESPECIALISTAS LOCAIS DOS EIXOS | CH + ATRIBUIÇÕES</h2>
             <p class="text-gray-700 mb-6">Visão geral da carga horária e atribuições dos Especialistas Locais de Eixo por módulo. Clique para revelar os detalhes!</p>
@@ -288,7 +287,7 @@
                 </div>
             </div>
         </section>
-        <!-- Dinâmica extra: Fluxo de Alinhamentos -->
+        !-- Dinâmica extra: Fluxo de Alinhamentos -->
         <section class="mb-12">
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">Fluxo de alinhamentos e ajustes</h2>
             <p class="text-gray-700 mb-6">Entenda o fluxo de colaboração entre os especialistas locais e a equipe pedagógica. Clique para revelar o fluxo!</p>
@@ -362,12 +361,12 @@
                 </div>
             </div>
         </section>
-        <!-- Seção: Dinâmicas para Docentes dos Módulos -->
+        !-- Seção: Dinâmicas para Docentes dos Módulos -->
         <section class="mb-12">
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">Docentes dos Módulos</h2>
             <p class="text-gray-700 mb-6">Os docentes são peças-chave na manutenção dos registros acadêmicos e na garantia da qualidade do ensino.</p>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <!-- Dinâmica 6: Avaliação Diária e por Competência -->
+                !-- Dinâmica 6: Avaliação Diária e por Competência -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-star task-icon"></i> Avaliação Diária e por Competência</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -375,7 +374,7 @@
                         <p id="game-avaliacao-prompt" class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>
-                <!-- Dinâmica 7: Frequência e Participação -->
+                !-- Dinâmica 7: Frequência e Participação -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-user-check task-icon"></i> Frequência e Participação</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -383,7 +382,7 @@
                         <p id="game-frequencia-prompt" class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>
-                <!-- Dinâmica 8: Lançamento de notas e frequências no sistema acadêmico -->
+                !-- Dinâmica 8: Lançamento de notas e frequências no sistema acadêmico -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-edit task-icon"></i> Lançamento de Notas e Frequências</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -393,12 +392,12 @@
                 </div>
             </div>
         </section>
-        <!-- Seção: Deveres e Obrigações Comuns -->
+        !-- Seção: Deveres e Obrigações Comuns -->
         <section class="mb-12">
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">Deveres e Obrigações Comuns a Todos os Docentes</h2>
             <p class="text-gray-700 mb-6">Além das atribuições específicas, todos os docentes do curso de Medicina devem cumprir as normas estabelecidas.</p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <!-- Dinâmica 9: Planejamento e Execução Didático-Pedagógica -->
+                !-- Dinâmica 9: Planejamento e Execução Didático-Pedagógica -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-chalkboard-teacher task-icon"></i> Planejamento e Execução Didático-Pedagógica</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -406,7 +405,7 @@
                         <p id="game-pedagogica-prompt" class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>
-                <!-- Dinâmica 10: Compromisso com a Qualidade Acadêmica -->
+                !-- Dinâmica 10: Compromisso com a Qualidade Acadêmica -->
                 <div class="card p-6">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-award task-icon"></i> Compromisso com a Qualidade Acadêmica</h3>
                     <p class="text-gray-600 mb-4">Clique no espaço abaixo para revelar os tópicos!</p>
@@ -416,27 +415,27 @@
                 </div>
             </div>
         </section>
-        <!-- Seção de Quizzes Interativos -->
+        !-- Seção de Quizzes Interativos -->
         <section class="mb-12">
             <h2 class="text-2xl sm:text-3xl font-bold section-title mb-6">Quizzes Interativos: Teste seu Conhecimento!</h2>
             <p class="text-gray-700 mb-6">Responda às perguntas para reforçar os principais pontos das atribuições docentes.</p>          
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <!-- Quiz 1: Professor Focal Administrativo -->
+                !-- Quiz 1: Professor Focal Administrativo -->
                 <div class="card p-6 flex flex-col items-center justify-center">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-desktop text-[#E91E63] mr-2"></i> Quiz do Professor Focal</h3>
                     <div id="quiz-focal" class="quiz-container">
-                        <!-- Pergunta e opções serão inseridas aqui via JS -->
+                        !-- Pergunta e opções serão inseridas aqui via JS -->
                         <p class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>    
-                <!-- Quiz 2: Especialista Local do Eixo -->
+                !-- Quiz 2: Especialista Local do Eixo -->
                 <div class="card p-6 flex flex-col items-center justify-center">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-sitemap text-[#E91E63] mr-2"></i> Quiz do Especialista Local</h3>
                     <div id="quiz-especialista" class="quiz-container">
                         <p class="text-gray-500 text-lg font-semibold">Clique para começar!</p>
                     </div>
                 </div>          
-                <!-- Quiz 3: Docentes dos Módulos -->
+                !-- Quiz 3: Docentes dos Módulos -->
                 <div class="card p-6 flex flex-col items-center justify-center">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center"><i class="fas fa-chalkboard-teacher text-[#E91E63] mr-2"></i> Quiz dos Docentes</h3>
                     <div id="quiz-docentes" class="quiz-container">
@@ -449,7 +448,7 @@
             <p>&copy; 2024 Afya. Todos os direitos reservados.</p>
         </footer>
     </div>
-    <script> // Dados das tarefas por ID
+    <script> / Dados das tarefas por ID
         const tasks = {
             'game-canvas-tasks': [
                 "Inserir o Plano de Ensino completo do módulo no CANVAS.",
@@ -544,7 +543,7 @@
                     });
                 }
             }
-            // Dinâmica extra: Tabela de Atribuições
+            / Dinâmica extra: Tabela de Atribuições
             const tabelaContainer = document.getElementById('tabela-atribuicoes-dinamica');
             if (tabelaContainer) {
                 tabelaContainer.addEventListener('click', () => {
@@ -555,7 +554,7 @@
                     tabelaContainer.classList.remove('cursor-pointer');
                 });
             }
-            // Dinâmica extra: Fluxo de alinhamentos
+            / Dinâmica extra: Fluxo de alinhamentos
             const fluxoContainer = document.getElementById('fluxo-dinamica');
             if (fluxoContainer) {
                 fluxoContainer.addEventListener('click', () => {
